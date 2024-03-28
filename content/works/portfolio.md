@@ -1,14 +1,14 @@
 ---
 title: Portfolio
-source: https://github.com/fxrysh/portfolio/
-live: https://fxrysh.is-a.dev/
+source: https://github.com/elhmouid/Portfolio
+live: 
 tags:
     - Website
-    - NuxtJS
-    - VueJS
-    - ThreeJS
-    - GSAP
-    - SSCSS
+    - C
+    - Programming
+    - 3D design
+    - graphic design
+    - video editing
 desc: Personal portfolio written in VueJS
-image: /portfolio.jpeg
+image: /portfolio.png
 ---

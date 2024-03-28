@@ -1,10 +1,9 @@
 ---
-title: Maze
-source: https://github.com/fxrysh/maze/
+title: Choose Your Path
+source: https://github.com/elhmouid/Choose-Your-Path
 live: https://fxrysh.github.io/maze/
 tags:
-    - Website
-    - WASM
-desc: A maze game written in pure WAT (WebAssembly Text)
+    - C program
+desc: A C program with interactive text-based storytelling.
 image: /maze.png
 ---

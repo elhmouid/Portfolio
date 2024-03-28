@@ -1,1 +1,5 @@
-Hello! I'm Farish Irfan, a Malaysian based hobbyist developer. Even though I mainly write JS/TS, HTML/CSS and Python, I can actually work with lower level languages such as Rust and few others. Other than programming, I like to watch anime and some sports.
+Hello! I'm El Hmouid Mohamed, a Moroccan based hobbyist developer.  
+I’m currently working on expanding my programming skills and knowledge, especially in C Language.
+I’m continuously learning and improving my coding abilities.
+I’m looking to collaborate on open-source projects and programming challenges.
+I like to watch anime and some sports.
